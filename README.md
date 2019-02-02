@@ -9,8 +9,5 @@ How to use:
 
 If you are interested in the project, you may simple click the 'Analyzing_A_B_test...' file and the Jupyter notebook file should open on github.
 
-License: You may use any part of my work/code unless you are a fellow Udacity student enrolled in the Data Analyst Nanodegree program. In that case please reach out to me if you need any help completing your project :)
-
-Expected revisions:
-
--I will condense the write-up and make it a standalone document.
+License:
+You may use any part of my work/code unless you are a fellow Udacity student enrolled in the Data Analyst Nanodegree program. In that case please reach out to me if you need any help completing your project :)
